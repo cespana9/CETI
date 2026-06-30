@@ -19,12 +19,12 @@ En este repositorio encontrarás:
 
 Las materias incluidas en esta especialidad son:
 
-- 🔐 **Puesta en Producción Segura**
-- 🕵️ **Análisis Forense Informático**
-- 📜 **Normativa de Ciberseguridad**
-- 🛠️ **Incidentes de ciberseguridad**
-- 🛡️ **Bastionado de redes y sistemas**
-- 💻 **Hacking ético**
+- 🔐 [**Puesta en Producción Segura**](./Puesta-en-produccion-segura/)
+- 🕵️ [**Análisis Forense Informático**](./Analisis-forense-informatico/)
+- 📜 [**Normativa de Ciberseguridad**](./Normativa-ciberseguridad/)
+- 🛠️ [**Incidentes de Ciberseguridad**](./Incidentes-de-ciberseguridad/)
+- 🛡️ [**Bastionado de Redes y Sistemas**](./Bastionado-redes-sistemas/)
+- 💻 [**Hacking Ético**](./hacking-etico/)
 
 ## Uso del repositorio
 
@@ -32,7 +32,7 @@ Puedes navegar por las carpetas para acceder a los contenidos organizados por as
 
 ## Información del Modulo
 
-[Logo CETI](images/CETI.png)
+![Logo CETI](images/CETI.png)
 
 | FAMILIA PROFESIONAL | TIPO DE MODULO        | HORAS |
 |---------------------|------------------------|-------|
