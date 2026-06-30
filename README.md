@@ -15,7 +15,11 @@ En este repositorio encontrarás:
 - 📄 Información del Modulo
 - 📄 Apuntes y documentación técnica  
 - 📄 Prácticas y ejercicios  
-- 📁 Recursos adicionales  
+- 📁 Recursos adicionales
+
+## Uso del repositorio
+
+Puedes navegar por las carpetas para acceder a los contenidos organizados por asignatura. Cada sección incluye documentación y ejercicios relacionados.
 
 ## Asignaturas
 
@@ -27,10 +31,6 @@ Las materias incluidas en esta especialidad son:
 - 🛠️ [**Incidentes de Ciberseguridad**](./Incidentes-de-Ciberseguridad/)
 - 🛡️ [**Bastionado de Redes y Sistemas**](./Bastionado-de-Redes-y-Sistemas/)
 - 💻 [**Hacking Ético**](./Hacking-Etico/)
-
-## Uso del repositorio
-
-Puedes navegar por las carpetas para acceder a los contenidos organizados por asignatura. Cada sección incluye documentación y ejercicios relacionados.
 
 ## Información del Modulo
 
