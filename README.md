@@ -72,7 +72,7 @@ Puedes trabajar en entidades de los sectores que necesiten establecer mecanismos
 * Diseñar y administrar sistemas informáticos en red y aplicar las políticas de seguridad establecidas, garantizando la funcionalidad requerida con un nivel de riesgo controlado.
 * Implantar sistemas seguros de desplegado de software con la adecuada coordinación entre los desarrolladores y los responsables de la operación del software.
 
-Consulta el resto de competencias en el [Real Decreto de establecimiento de este título](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963 "Externo, se abre en ventana nueva.")
+Consulta el resto de competencias en el [Real Decreto de establecimiento de este título](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963)
 
 ## Dónde estudiar
 
@@ -86,6 +86,8 @@ Consulta el resto de competencias en el [Real Decreto de establecimiento de este
 
 ## Notas
 
-Este repositorio es de carácter educativo y está en constante actualización.
+Este contenido está orientado al aprendizaje de ciberseguridad en entornos controlados y autorizados, y no debe ser utilizado fuera de dichos contextos.
+
+Cada usuario es responsable de conocer y respetar la legislación vigente aplicable en su país o entorno de trabajo. El uso indebido, no autorizado o con fines ilícitos de la información aquí expuesta será responsabilidad **única y exclusiva del usuario**, quedando exento el autor de cualquier uso inapropiado del mismo.
 
 ---
