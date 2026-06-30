@@ -32,7 +32,7 @@ Puedes navegar por las carpetas para acceder a los contenidos organizados por as
 
 ## Información del Modulo
 
-[Logo CETI](images/CETI.png)
+![Logo CETI](images/CETI.png)
 
 | FAMILIA PROFESIONAL | TIPO DE MODULO        | HORAS |
 |---------------------|------------------------|-------|
