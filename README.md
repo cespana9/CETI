@@ -1,5 +1,7 @@
 # Repositorio del Curso de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información (CETI)
 
+![Logo CETI](images/CETI.png)
+
 Este repositorio contiene la documentación, prácticas y tareas realizadas durante el curso de especialización en ciberseguridad.
 
 ## Objetivo
@@ -31,8 +33,6 @@ Las materias incluidas en esta especialidad son:
 Puedes navegar por las carpetas para acceder a los contenidos organizados por asignatura. Cada sección incluye documentación y ejercicios relacionados.
 
 ## Información del Modulo
-
-![Logo CETI](images/CETI.png)
 
 | FAMILIA PROFESIONAL | TIPO DE MODULO        | HORAS |
 |---------------------|------------------------|-------|
