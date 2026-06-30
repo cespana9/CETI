@@ -19,12 +19,12 @@ En este repositorio encontrarás:
 
 Las materias incluidas en esta especialidad son:
 
-- 🔐 [**Puesta en Producción Segura**](./puesta-en-produccion-segura/)
-- 🕵️ [**Análisis Forense Informático**](./analisis-forense-informatico/)
-- 📜 [**Normativa de Ciberseguridad**](./normativa-de-ciberseguridad/)
-- 🛠️ [**Incidentes de Ciberseguridad**](./incidentes-de-ciberseguridad/)
-- 🛡️ [**Bastionado de Redes y Sistemas**](./bastionado-de-redes-y-sistemas/)
-- 💻 [**Hacking Ético**](./hacking-etico/)
+- 🔐 [**Puesta en Producción Segura**](./Puesta-en-Produccion-Segura/)
+- 🕵️ [**Análisis Forense Informático**](./Analisis-Forense-Informatico/)
+- 📜 [**Normativa de Ciberseguridad**](./Normativa-de-Ciberseguridad/)
+- 🛠️ [**Incidentes de Ciberseguridad**](./Incidentes-de-Ciberseguridad/)
+- 🛡️ [**Bastionado de Redes y Sistemas**](./Bastionado-de-Redes-y-Sistemas/)
+- 💻 [**Hacking Ético**](./Hacking-Etico/)
 
 ## Uso del repositorio
 
