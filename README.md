@@ -21,6 +21,12 @@ En este repositorio encontrarás:
 
 Puedes navegar por las carpetas para acceder a los contenidos organizados por asignatura. Cada sección incluye documentación y ejercicios relacionados.
 
+## Información del Modulo
+
+| FAMILIA PROFESIONAL | TIPO DE MODULO        | HORAS |
+|---------------------|------------------------|-------|
+| Informática y Comunicaciones | Curso de especialización | 720h |
+
 ## Asignaturas
 
 Las materias incluidas en esta especialidad son:
@@ -31,12 +37,6 @@ Las materias incluidas en esta especialidad son:
 - 🛠️ [**Incidentes de Ciberseguridad**](./Incidentes-de-Ciberseguridad/)
 - 🛡️ [**Bastionado de Redes y Sistemas**](./Bastionado-de-Redes-y-Sistemas/)
 - 💻 [**Hacking Ético**](./Hacking-Etico/)
-
-## Información del Modulo
-
-| FAMILIA PROFESIONAL | TIPO DE MODULO        | HORAS |
-|---------------------|------------------------|-------|
-| Informática y Comunicaciones | Curso de especialización | 720h |
 
 ## Requisitos de acceso
 
